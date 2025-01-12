@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Kotlin, Flutter, Nodejs.**
 
-- 📫 How to reach me **rafidiya143@gmail.com**
+- 📫 How to reach me **killerbee0181@gmail.com**
 
 - ⚡ Fun fact **I have an uncanny ability to solve complex puzzles in record time, whether it's coding challenges or Rubik's cubes!**
 
